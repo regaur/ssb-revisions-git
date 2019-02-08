@@ -1,0 +1,6 @@
+pkg/
+src/
+ssb-revisions/
+*.pkg.tar.xz
+*.pkg.tar.xz.sig
+
