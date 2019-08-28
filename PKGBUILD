@@ -1,7 +1,7 @@
 # Maintainer: Jan Boelsche <jan@lagomorph.de>
 
 pkgname=ssb-revisions-git
-pkgver=1.2.1.r79.c29e918
+pkgver=1.3.0.r81.2526111
 pkgrel=1
 pkgdesc="Mutable documents for secure scuttlebutt"
 arch=('any')
